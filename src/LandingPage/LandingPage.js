@@ -26,7 +26,7 @@ function LandingPage() {
         // backdropFilter: 'blur(1px)',
         
          }}>
-            <img src={'../landingbackground.png'} style={{ position:"absolute", height:"97.5%",width:"97.8%", backgroundSize: 'cover',
+            <img src={'../../landingbackground.png'} style={{ position:"absolute", height:"97.5%",width:"97.8%", backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat:"no-repeat",
         filter:"blur(5px)",margin:"0" }}/>
